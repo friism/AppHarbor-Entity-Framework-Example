@@ -1,0 +1,18 @@
+﻿@model EntityFrameworkTest2.Model.Foo
+
+@{
+	ViewBag.Title = "New";
+}
+
+<h2>New</h2>
+<div>
+	@using (Html.BeginForm("Create", "Foo")){
+		<p>
+			@Html.LabelFor(x => x.Name)
+			@Html.TextBoxFor(x => x.Name)
+		</p>
+		<p>
+			<input type="submit" value="Submit" />
+		</p>
+	}
+</div>
