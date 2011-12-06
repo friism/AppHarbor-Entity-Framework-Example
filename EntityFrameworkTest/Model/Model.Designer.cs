@@ -17,7 +17,7 @@ using System.Runtime.Serialization;
 
 [assembly: EdmSchemaAttribute()]
 
-namespace EntityFrameworkTest2.Model
+namespace EntityFrameworkTest.Model
 {
     #region Contexts
     

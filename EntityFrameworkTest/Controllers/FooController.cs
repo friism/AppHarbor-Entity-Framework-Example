@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
-using EntityFrameworkTest2.Model;
+using EntityFrameworkTest.Model;
 
-namespace EntityFrameworkTest2.Controllers
+namespace EntityFrameworkTest.Controllers
 {
 	public class FooController : Controller
 	{

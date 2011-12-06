@@ -1,8 +1,8 @@
 ﻿using System.Web.Mvc;
 using System.Configuration;
-using EntityFrameworkTest2.Model;
+using EntityFrameworkTest.Model;
 
-namespace EntityFrameworkTest2.Controllers
+namespace EntityFrameworkTest.Controllers
 {
 	public class HomeController : Controller
 	{
