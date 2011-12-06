@@ -1,0 +1,1 @@
+This is an example of how to use traditional (non Code First) Entity Framework with AppHarbor connectionstring replacement. Relevant Appharbor connectionstring replacement documentation is found [here](http://support.appharbor.com/kb/add-ons/using-sequelizer). The metadata string used for this example is `res://*/Model.Model.csdl|res://*/Model.Model.ssdl|res://*/Model.Model.msl`.
